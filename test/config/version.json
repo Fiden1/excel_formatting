@@ -2,7 +2,7 @@
   "version": "1.0.6",
   "files": {
     "installer_package.zip": {
-      "url": "https://github.com/fiden1/excel_formatting/releases/download/v1.0.0/installer_package.zip",
+      "url": "https://github.com/Fiden1/excel_formatting/archive/refs/tags/v1.0.6.zip",
       "sha256": "PUT_SHA256_OF_ZIP_HERE",
       "size": 123456
     }
