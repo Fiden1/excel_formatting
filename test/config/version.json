@@ -5,13 +5,13 @@
       "url": "https://github.com/fiden1/excel_formatting/releases/download/v1.0.6/excel_formatter.exe",
       "sha256": "9ab1541531b2049047736788cba65e268d2a52a89bfa211af7b36ad3ca909a22",
       "size": 12416054,
-      "signature_required": false
+      "signature_required": true
     },
     "backend.exe": {
       "url": "https://github.com/Fiden1/excel_formatting/releases/download/v1.0.6/backend.exe",
       "sha256": "efc4f599536ddadf0c7ab7c9726c72bd06ca78459615048fa11e5db0fc3bfbf8",
       "size": 27349043,
-      "signature_required": false
+      "signature_required": true
     }
   }
 }
