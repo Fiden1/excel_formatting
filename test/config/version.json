@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "files": {
     "installer_package.zip": {
-      "url": "https://github.com/Fiden1/excel_formatting/archive/refs/tags/v1.0.9.zip"
+      "url": "https://github.com/Fiden1/excel_formatting/releases/download/v1.1.0/excel_formatter.zip"
     }
   }
 }
