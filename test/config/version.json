@@ -4,7 +4,7 @@
     "installer_package.zip": {
       "url": "https://github.com/Fiden1/excel_formatting/archive/refs/tags/v1.0.7.zip",
       "sha256": "e71712e17361a72161144422c8f7f3b6179d62dbf24103af5d07592fde518d8b",
-      "size": None
+      "size": "None"
     }
   }
 }
